@@ -24,3 +24,6 @@ print(abs(3 + 4j)) # prints 5.0, because |3 + 4j| = 5
 
 ### Sources
 1. <a href='https://www.mathsisfun.com/numbers/absolute-value.html' target='_blank'>Math Is Fun. Accessed: October 25, 2017</a>
+#MY CHANGES' 
+n=float(input())
+print(abs(n))
